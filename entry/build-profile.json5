@@ -15,14 +15,15 @@
           }
         }
       }
-    },
+    }
   ],
+  "deviceTypes": ["phone", "tablet", "2in1"],
   "targets": [
     {
       "name": "default"
     },
     {
-      "name": "ohosTest",
+      "name": "ohosTest"
     }
   ]
 }
