@@ -5,6 +5,6 @@
   "main": "",
   "author": "",
   "license": "",
+  "deviceTypes": ["phone", "tablet", "2in1"],
   "dependencies": {}
 }
-
