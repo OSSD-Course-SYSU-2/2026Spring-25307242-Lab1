@@ -645,7 +645,18 @@ MainIndex
 ![image-20260514155841207](https://ycc123666.oss-cn-beijing.aliyuncs.com/img/image-20260514155841207.png)
 
 ![image-20260514155858996](https://ycc123666.oss-cn-beijing.aliyuncs.com/img/image-20260514155858996.png)
+### 12.4 校内工程项目舞台演出实拍图
+![古筝演奏现场](./cache/webwxgetmsgimg (1).jpg)
 
+### 12.5 AI作曲生成界面、古筝电子乐谱图片
+![AI生成古筝乐谱](./cache/webwxgetmsgimg (2).jpg)
+![AI作曲操作界面](./cache/webwxgetmsgimg (4).jpg)
+
+### 12.6 多端部署界面截图（一次开发多端部署）
+![手机平板多端协同流转效果](./cache/webwxgetmsgimg (3).jpg)
+
+### 12.7 分布式自由流转演示截图
+![跨设备分布式流转展示](./cache/webwxgetmsgimg (3).jpg)
 
 
 ## 13. 常见问题与解决方法
