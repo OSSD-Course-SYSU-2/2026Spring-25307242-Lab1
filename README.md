@@ -678,7 +678,7 @@ EntryAbility.onWindowStageCreate()
 ### 13.5 多端部署与分布式流转截图
 ![手机平板多端适配效果](https://github.com/OSSD-Course-SYSU-2/2026Spring-25307242-Lab1/blob/main/cache/webwxgetmsgimg%20(3).jpg?raw=true)
 
-### 13.6 校内工程项目舞台演出实拍
+### 13.6 校内工程项目舞台演出实拍 （依托本项目搭建完整创作实践链路，打通 AI 智能作曲、编曲优化、舞台排练与现场展演全环节，实现 “AI 生成乐曲 — 人工精修打磨 — 线下实景演出古筝” 一体化闭环成果。相关项目实践、作品展演记录与技术思路，详见中山大学艺术学院公众号推出的《智响未来》AI 作曲工程专题内容。）
 ![古筝现场演奏演出](https://github.com/OSSD-Course-SYSU-2/2026Spring-25307242-Lab1/blob/main/cache/webwxgetmsgimg%20(1).jpg?raw=true)
 
 ---
